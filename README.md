@@ -4,7 +4,9 @@
 Usually, the result of object detection contains three elements:
 
   1.list of bounding boxes with coordinates
+  
   2.the category/label for each bounding box
+  
   3.the confidence score (0 to 1) for each bounding box and label
 
 *RetinaNet is built on top of two crucial concepts - Focal Loss and Featurized Image Pyramid:
